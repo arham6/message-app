@@ -1,0 +1,11 @@
+.mainbox{
+    height: 60vh;
+    width: 40vw;
+    background-color: #282b30;
+    margin: auto;
+    margin-top: 5vh;
+    border-radius: 15px;
+    display: flex;
+    color: aliceblue;
+    font-size: 3rem;
+}

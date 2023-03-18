@@ -1,0 +1,9 @@
+npx create-react-app client --- fast way to create react app named "client"
+
+now open the client folder in vscode (else gives error in npm start)
+
+npm start --- start a react live development server
+
+"react-scripts start", having key "start" inside scripts of package.json file helps in running project in local development environment
+
+react default port is 3000
